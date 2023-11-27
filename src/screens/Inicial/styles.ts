@@ -5,12 +5,6 @@ export const styles = StyleSheet.create({
     conteiner: {
        flex: 1,
        flexDirection: "column",
-       justifyContent: "space-around"
+       justifyContent:'center'
     },
-    buttonText: {
-        fontWeight: "bold",
-        fontSize: 18,
-        textAlign: "center",
-        color: colors.white
-    }
 })

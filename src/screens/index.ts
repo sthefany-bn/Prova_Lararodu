@@ -1,2 +1,2 @@
-export {InputLocation as ScreenLocation} from "./InputLocation"
-export {ShowLocation as ScreenShowLocation} from "./ShowLocation"
+export {Inicial as ScreenInicial} from "./Inicial"
+export {Acelerometro as ScreenAcelerometro} from "./Acelerometro"
